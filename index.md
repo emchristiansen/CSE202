@@ -48,7 +48,10 @@ To contribute, [fork this project on GitHub](https://github.com/emchristiansen/C
 You'll find notes for each day in the `_posts` folder.
 
 You should be able to see your changes by pushing your own GitHub branch and going to `http://<username>.github.io/CSE202`.
+However, your might need to update `_config.yml` to get assests to load properly.
 GitHub will run Jekyll to process the markdown, etc, and generate the site.
+
+The other option is to install Jekyll with `gem install jekyll` and test it locally with `jekyll serve -w`.
 
 For more information on GitHub's publishing tools, see [here](http://pages.github.com/).
 For more on Jekyll, see the [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html).
