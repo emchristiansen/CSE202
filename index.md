@@ -21,7 +21,7 @@ The idea is that the students together can create a better resource than any one
 
 The class webpage is [here](http://cseweb.ucsd.edu/classes/wi14/cse202-a/).
 
-The Piazza page is [here](piazza.com/ucsd/winter2014/cse202/home).
+The Piazza page is [here](http://piazza.com/ucsd/winter2014/cse202/home).
 
 There's a [previous set of notes](http://cseweb.ucsd.edu/~ncjones/cse202/), compiled in the fall of 2002 by Neil Jones.
 These are another great resource, as the curriculum hasn't changed too much in the last decade.
