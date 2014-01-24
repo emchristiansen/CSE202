@@ -15,7 +15,7 @@ title: About
 </script>
 
 These are the collaboratively-constructed class notes for UCSD's CSE 202: Graduate Algorithms, taught in winter 2014 by [Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/). 
-The idea is that the students together can create a better resource than any one person.
+The idea is that the students together can create a better resource than could any one person.
 
 ###Links
 
