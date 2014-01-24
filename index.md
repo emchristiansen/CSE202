@@ -5,6 +5,10 @@ title: About
 ---
 {% include JB/setup %}
 
+<a href="https://github.com/emchristiansen/CSE202">
+  <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub">
+</a>
+
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
@@ -18,7 +22,7 @@ MathJax.Hub.Config({
 These are the collaboratively-constructed class notes for UCSD's CSE 202: Graduate Algorithms, taught in winter 2014 by [Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/). 
 The idea is that the students together can create a better resource than any one person.
 
-###Links
+##Links
 
 The class webpage is [here](http://cseweb.ucsd.edu/classes/wi14/cse202-a/).
 
