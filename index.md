@@ -54,17 +54,17 @@ For info on Jekyll Bootstrap, which was used to generate this site, see [here](h
 
 ##Math markup
 
-We're using [MathJax](http://www.mathjax.org/) to get $\LaTeX$-style math in the browser.
+We're using [MathJax](http://www.mathjax.org/) to get \\(\LaTeX\\)-style math in the browser.
 This is more fun than generating a boring old PDF, right?
 
-You render inline \\(\LaTeX\\) using the dollar sign (`$`) and block $\LaTeX$ using double dollar signs (`$$`).
-For example, the probability of getting $k$ heads when flipping $n$ coins is $P(E) = {n \choose k} p^k (1-p)^{ n-k}$.
+You render inline \\(\LaTeX\\) using `\\(` and `\\)` and block \\(\LaTeX\\) using `\\[` and `\\]`.
+For example, the probability of getting \\(k\\) heads when flipping \\(n\\) coins is \\(P(E) = {n \choose k} p^k (1-p)^{ n-k}\\).
 And here are the Lorenz Equations:
-$$  
+\\[  
 \begin{aligned}
 \dot{x} &= \sigma(y-x) \cr
 \dot{y} &= \rho x - y - xz \cr
 \dot{z} &= -\beta z + xy
 \end{aligned}
-$$
+\\]
 
