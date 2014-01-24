@@ -17,7 +17,7 @@ title: About
 These are the collaboratively-constructed class notes for UCSD's CSE 202: Graduate Algorithms, taught in winter 2014 by [Russell Impagliazzo](http://cseweb.ucsd.edu/~russell/). 
 The idea is that the students together can create a better resource than any one person.
 
-##Links
+###Links
 
 The class webpage is [here](http://cseweb.ucsd.edu/classes/wi14/cse202-a/).
 
@@ -26,7 +26,7 @@ The Piazza page is [here](piazza.com/ucsd/winter2014/cse202/home).
 There's a [previous set of notes](http://cseweb.ucsd.edu/~ncjones/cse202/), compiled in the fall of 2002 by Neil Jones.
 These are another great resource, as the curriculum hasn't changed too much in the last decade.
 
-#Notes
+##Notes
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -34,7 +34,7 @@ These are another great resource, as the curriculum hasn't changed too much in t
   {% endfor %}
 </ul>
 
-#Contributing
+##Contributing
 
 We strongly encourage / need students to contribute notes.
 These contributions can be as large as the entire notes for one day, or as small as a fixed typo.
@@ -43,7 +43,7 @@ To contribute, [fork this project on GitHub](https://github.com/emchristiansen/C
 You'll find notes for each day in the `_posts` folder.
 
 You should be able to see your changes by pushing your own GitHub branch and going to `http://<username>.github.io/CSE202`.
-However, your might need to update `_config.yml` to get assests to load properly.
+However, your might need to update `BASE_PATH` in `_config.yml` to get assests to load properly.
 GitHub will run Jekyll to process the markdown, etc, and generate the site.
 
 The other option is to install Jekyll with `gem install jekyll` and test it locally with `jekyll serve -w`.
@@ -52,7 +52,12 @@ For more information on GitHub's publishing tools, see [here](http://pages.githu
 For more on Jekyll, see the [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html).
 For info on Jekyll Bootstrap, which was used to generate this site, see [here](http://jekyllbootstrap.com).
 
-##Math markup
+###Contributors
+  * Russell Impagliazzo
+  * Eric Christiansen
+  * ...
+
+###Math markup
 
 We're using [MathJax](http://www.mathjax.org/) to get \\(\LaTeX\\)-style math in the browser.
 This is more fun than generating a boring old PDF, right?
