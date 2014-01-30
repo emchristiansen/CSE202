@@ -55,6 +55,7 @@ For info on Jekyll Bootstrap, which was used to generate this site, see [here](h
 ###Contributors
   * Russell Impagliazzo
   * Eric Christiansen
+  * Hannah Chen
   * ...
 
 ###Math markup
